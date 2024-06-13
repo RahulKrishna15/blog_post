@@ -5,19 +5,5 @@
     "database": "blog_post",
     "host": "127.0.0.1",
     "dialect": "mysql"
-  },
-  "test": {
-    "username": "root",
-    "password": "rahul@123",
-    "database": "blog_post",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
-  },
-  "production": {
-    "username": "root",
-    "password": "rahul@123",
-    "database": "blog_post",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
   }
 }
