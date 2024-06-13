@@ -20,7 +20,7 @@ This is a simple blog post project implemented with Node.js, Express, Sequelize,
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/blog_post.git
+    git clone https://github.com/RahulKrishna15/blog_post.git
     cd blog_post
     ```
 
@@ -31,15 +31,15 @@ This is a simple blog post project implemented with Node.js, Express, Sequelize,
 
 3. Update Your details in the config/config.json file
     ```
-{
-  "development": {
+  "development": 
+  {
     "username": "root",
     "password": "your_password",
     "database": "your_database_name",
     "host": "127.0.0.1",
     "dialect": "your_dialect"
   }
-}
+
 ```
 
 4. Run the migrations:
