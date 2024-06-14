@@ -30,17 +30,14 @@ This is a simple blog post project implemented with Node.js, Express, Sequelize,
     ```
 
 3. Update Your details in the config/config.json file
-    ```
-  "development": 
-  {
+    ```"development": {
     "username": "root",
     "password": "your_password",
     "database": "your_database_name",
     "host": "127.0.0.1",
     "dialect": "your_dialect"
-  }
-
-```
+    }
+    ```
 
 4. Run the migrations:
     ```bash
