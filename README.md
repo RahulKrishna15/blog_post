@@ -40,12 +40,18 @@ This is a simple blog post project implemented with Node.js, Express, Sequelize,
     }
     ```
 
-4. Run the migrations:
+4. Create a database manually:
+    ```bash
+    CREATE DATABASE database_name
+    USE database_name
+    ```
+
+5. Run the migrations:
     ```bash
     npx sequelize-cli db:migrate
     ```
 
-5. Start the server:
+6. Start the server:
     ```bash
     npm start
     ```
