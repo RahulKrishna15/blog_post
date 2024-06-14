@@ -30,7 +30,8 @@ This is a simple blog post project implemented with Node.js, Express, Sequelize,
     ```
 
 3. Update Your details in the config/config.json file
-    ```"development": {
+    ```
+    "development": {
     "username": "root",
     "password": "your_password",
     "database": "your_database_name",
