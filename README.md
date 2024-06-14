@@ -73,3 +73,6 @@ This is a simple blog post project implemented with Node.js, Express, Sequelize,
   - Request Body: `{ "title": "Updated Title", "content": "Updated Content" }`
 
 - `DELETE /api/posts/:id`: Delete a post by ID (requires authentication)
+
+### Video Explaination
+- Video Explaination of the project is in the folder named "Video"
