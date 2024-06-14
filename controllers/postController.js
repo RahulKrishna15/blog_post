@@ -53,7 +53,7 @@ exports.deletePost = async (req, res) => {
       return res.status(403).json({ error: 'Unauthorized' });
     }
     await post.destroy();
-    res.status(204).send();
+    res.status(200).json({msg:"Post Deleted"});
   } catch (error) {
     res.status(400).json({ error: error.message });
   }
