@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "rahul@123",
-    "database": "blog_post",
+    "username": "your_username",
+    "password": "your_password",
+    "database": "your_database_name",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "your_dialect"
   }
 }
